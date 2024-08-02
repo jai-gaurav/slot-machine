@@ -8,5 +8,6 @@ Run the following commands in the terminal
 
 ## Executing the code
 Run the following command in the terminal to run the code
-1. node package.js<br>
+1. node package.js
+<br>
 NOTE: Make sure all these commands for installation and execution run inside the slot-machine/ directory
